@@ -18,7 +18,7 @@ public class MoveFiles {
      * push hosting files
      */
     static String[] FILE_NAMES = {"http-api", "polish", "rlawt", "runelite-api", "runelite-jshell", "runescape-api", "runelite-client"};
-    static String SNAPSHOT = "4.25.6";
+    static String SNAPSHOT = "4.25.7";
 
     static String[] PATHS = {
             System.getProperty("user.home") + "/Development/k204/kronos-client/http-api/build/repo/com/openosrs/http-api/" + SNAPSHOT + "/",
